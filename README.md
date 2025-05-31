@@ -1,7 +1,4 @@
 
----
-
-````markdown
 # 🧠 LinkedIn Post Generator
 
 An AI-powered tool to generate professional LinkedIn posts using NLP techniques and few-shot learning. Built with a simple and interactive Streamlit interface.
@@ -76,9 +73,6 @@ streamlit run main.py
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots here (e.g., app interface or generated post examples)
 
 ---
 
@@ -115,5 +109,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Let me know if you'd like a customized version with your name as the author or more sections (like FAQ, TO-DO, etc.).
+
 ```
